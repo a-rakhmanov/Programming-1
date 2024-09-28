@@ -1,5 +1,5 @@
 // *****************************************************************
-// * Function Name: Name_Of_Function *
+// * Function Name: Assignment 3 *
 // * Description: converts a range of numbers to their binary forms.
 // * Date: May 31, 2023
 // * Author: Anna Rakhmanov
