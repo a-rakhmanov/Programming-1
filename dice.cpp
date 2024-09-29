@@ -1,6 +1,9 @@
 //
 // Created by Anna Rakhmanov on 7/23/23.
 //
+
+//supplemental to code provided in class that creates a dice throwing simulation
+
 #include "dice.h"
 #include <iomanip>
 #include <iostream>
